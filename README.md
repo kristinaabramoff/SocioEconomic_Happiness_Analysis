@@ -41,8 +41,9 @@ This project aims to investigate the factors influencing national happiness and 
 ## Skills and Technologies Demonstrated:
 
 ### 1. **Data Collection and Cleaning**  
-   - Combined multiple CSV files containing data on GDP, life expectancy, happiness scores, unemployment rates, and COVID-19 impacts into one cohesive dataset. This process is detailed in [`data_cleaning_combining.ipynb`](link_to_notebook).
-   - Functions like `merge()`, `dropna()`, and `groupby()` were used to prepare the dataset efficiently.
+   - Combined multiple CSV files containing data on GDP, life expectancy, happiness scores, unemployment rates, and COVID-19 impacts to create a cohesive dataset spanning the years 2018–2023. This process allowed us to analyze key socio-economic trends over this crucial period, capturing the impacts of both economic and global health events on national happiness.
+   - Key data processing techniques, including `merge()`, `dropna()`, and `groupby()`, were employed to ensure the dataset was efficiently prepared for analysis and ready for in-depth trend evaluation across multiple years. The complete process is documented in [`data_cleaning_combining.ipynb`](link_to_notebook).
+
 
 ### 2. **Main Analysis**
    - All statistical analysis, data visualizations, and insights are provided in [`main.ipynb`](link_to_notebook). This includes:
