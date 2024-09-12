@@ -20,7 +20,7 @@ This project aims to investigate the factors influencing national happiness and 
 ## Project Structure:
 
 - **Data Combining and Cleaning**: The process of merging multiple datasets, cleaning, and preparing them for analysis is located in the notebook [`data_cleaning_combining.ipynb`](link_to_notebook).
-- **Main Analysis**: All further analysis, including statistical tests, visualizations, and conclusions, can be found in the notebook [`main.ipynb`](link_to_notebook).
+- **Main Analysis**: All further analysis, including statistical tests, visualizations, and conclusions, can be found in the notebook [`main_ipynb`](link_to_notebook).
 
 ## Key Questions and Hypotheses:
 1. **Is a country's happiness score correlated with its GDP per capita?**  
